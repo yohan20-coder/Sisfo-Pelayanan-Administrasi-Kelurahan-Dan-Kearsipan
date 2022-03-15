@@ -1,4 +1,4 @@
-### Sisfo-Pelayanan-Administrasi-Kelurahan-Dan-Kearsipan![Login](https://user-images.githubusercontent.com/76047090/158394831-6bdef61c-624e-4ef9-988e-a31df8752595.png)
+### Sisfo-Pelayanan-Administrasi-Kelurahan-Dan-Kearsipan
 
 
 **Aplikasi Ini Merupakan Pelayanan Administrasi Dan Arsip Desa/Kelurahan**
